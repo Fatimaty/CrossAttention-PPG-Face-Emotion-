@@ -2,8 +2,8 @@
 
 This repository includes my Master’s thesis work on **multimodal emotion recognition** using:
 
-- Behind-the-ear **PPG** signals (converted to 2D CWT images)
-- **Facial expression** images
+ Behind-the-ear **PPG** signals (converted to 2D CWT images)
+ **Facial expression** images
 
 A **cross-attention deep learning model** is used to fuse both modalities for improved emotion classification performance.
 
